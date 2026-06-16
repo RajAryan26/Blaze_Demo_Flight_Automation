@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-06-15T18:12:27 IST" name="Default suite" finished-at="2026-06-15T18:12:35 IST" duration-ms="7897">
+    <groups>
+    </groups>
+    <test started-at="2026-06-15T18:12:27 IST" name="Default test" finished-at="2026-06-15T18:12:35 IST" duration-ms="7897">
+      <class name="tests.FlightBookingTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.FlightBookingTest@48f2bd5b]" started-at="2026-06-15T18:12:27 IST" name="setup" finished-at="2026-06-15T18:12:32 IST" duration-ms="4473" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyFlightBooking()[pri:0, instance:tests.FlightBookingTest@48f2bd5b]" started-at="2026-06-15T18:12:32 IST" name="verifyFlightBooking" finished-at="2026-06-15T18:12:35 IST" duration-ms="3159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFlightBooking -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.FlightBookingTest@48f2bd5b]" started-at="2026-06-15T18:12:35 IST" name="tearDown" finished-at="2026-06-15T18:12:35 IST" duration-ms="201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.FlightBookingTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
